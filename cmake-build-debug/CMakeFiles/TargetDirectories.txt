@@ -1,0 +1,3 @@
+/home/gabrielplus/Documentos/ufra/linguagens-de-programacao/lista-lp-c/cmake-build-debug/CMakeFiles/lista_lp_c.dir
+/home/gabrielplus/Documentos/ufra/linguagens-de-programacao/lista-lp-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gabrielplus/Documentos/ufra/linguagens-de-programacao/lista-lp-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
